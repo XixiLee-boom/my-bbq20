@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: XixiLee-boom
-      revision: main
+      revision: bbkeyboard_tp
       import: app/west.yml
   self:
     path: config
